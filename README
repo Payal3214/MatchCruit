@@ -1,0 +1,17 @@
+# Matchcruit 🔥
+
+**Matchcruit** is a swipe-based job-matching platform where recruiters and job seekers can connect.
+
+## ✨Features
+
+- Recruiters and candidates swipe left/right on matches
+- Post jobs as a recruiter
+- View match history
+- Leave personalized messages after a match
+
+## 💡Tech Stack
+
+- React + Tailwind CSS
+- LocalStorage for storing matches
+- Simple, no-backend MVP — great for showcasing UI/UX design and React skills
+
